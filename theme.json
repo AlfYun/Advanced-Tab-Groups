@@ -13,6 +13,12 @@
                 "chrome://browser/content/browser.xhtml"
             ],
             "loadOrder": 20
+        },
+        "tab-url-tooltip.uc.js": {
+            "include": [
+                "chrome://browser/content/browser.xhtml"
+            ],
+            "loadOrder": 30
         }
     },
     "homepage": "https://github.com/Vertex-Mods/Advanced-Tab-Groups",
@@ -23,7 +29,7 @@
     "readme": "https://raw.githubusercontent.com/Vertex-Mods/Advanced-Tab-Groups/main/README.md",
     "image": "https://raw.githubusercontent.com/Vertex-Mods/Advanced-Tab-Groups/main/image.png",
     "author": "Vertex",
-    "version": "3.8.0",
+    "version": "3.8.1",
     "tags": [
         "Zen Browser",
         "Vertical Tabs",
@@ -32,7 +38,7 @@
         "12th"
     ],
     "createdAt": "2025-05-25",
-    "updatedAt": "2026-09-04",
+    "updatedAt": "2026-10-12",
     "ai": "yes",
     "fork": ["zen"]
 }
